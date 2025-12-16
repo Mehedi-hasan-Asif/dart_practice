@@ -54,7 +54,9 @@
     "Dart Command Line App.data_types.dart.executor": "Run",
     "Dart Command Line App.hello.dart.executor": "Run",
     "Dart Command Line App.incre_decre.dart.executor": "Run",
+    "Dart Command Line App.map.dart.executor": "Run",
     "Dart Command Line App.operators.dart.executor": "Run",
+    "Dart Command Line App.set.dart.executor": "Run",
     "Dart Command Line App.user_input.dart.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -124,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765766201158</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add">
+      <option name="closed" value="true" />
+      <created>1765772190225</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765772190225</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
