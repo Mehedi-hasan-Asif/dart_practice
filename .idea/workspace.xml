@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff5c71c3-4ba7-488a-bb52-622614a6774a" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,37 +48,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Dart Command Line App.arithmatic.dart.executor": "Run",
-    "Dart Command Line App.dart_practice.dart.executor": "Run",
-    "Dart Command Line App.data_types.dart.executor": "Run",
-    "Dart Command Line App.for_each_loop.dart.executor": "Run",
-    "Dart Command Line App.for_loop.dart.executor": "Run",
-    "Dart Command Line App.hello.dart.executor": "Run",
-    "Dart Command Line App.if_condition.dart.executor": "Run",
-    "Dart Command Line App.if_else_condition.dart.executor": "Run",
-    "Dart Command Line App.if_else_if.dart.executor": "Run",
-    "Dart Command Line App.incre_decre.dart.executor": "Run",
-    "Dart Command Line App.map.dart.executor": "Run",
-    "Dart Command Line App.operators.dart.executor": "Run",
-    "Dart Command Line App.set.dart.executor": "Run",
-    "Dart Command Line App.switch_case.dart.executor": "Run",
-    "Dart Command Line App.user_input.dart.executor": "Run",
-    "Dart Command Line App.while_loop.dart.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/dart_practice25",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.arithmatic.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.class.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.dart_practice.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.data_types.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.do_while.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.for_each_loop.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.for_loop.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.hello.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.if_condition.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.if_else_condition.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.if_else_if.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.incre_decre.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.map.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.object.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.operators.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.set.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.switch_case.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.user_input.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.while_loop.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/dart_practice25&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="dart_practice25.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="filePath" value="$PROJECT_DIR$/bin/dart_practice25.dart" />
@@ -181,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766572788666</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add">
+      <option name="closed" value="true" />
+      <created>1766716776352</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766716776352</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
